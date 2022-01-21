@@ -9,4 +9,4 @@ Planned data sources:
 - Faucet Claims
 
 General Info:
-Webpage. javascript. Sounds used will be produced using js, 
+Webpage. javascript. Generative sounds used will be produced using js, (such as tone.js)
