@@ -35,16 +35,23 @@ detect txID of ban_1jung1e send (not refunds),
 2nd character of hash changes mode (Major / minor) -
 
 1st char    0	  1 	2 	3 	4 	5   6	  7 	8	  9	  a	  b	  c	    d	  e	  f
+
 Key	        A	  A#	B	  C	  C#	D	  D#	E	  F	  F#	G	  G#	same	+5	+1	+3
+
 Mode	      M 	m	  M	  m	  M	  m	  M	  m	  M	  m	  M	  m	  M	    m	  M	  m
 
 
 Rough combo of examples:
+
 prev JTV hash: B8A00E5EDBB3F241B4B8133A72703122D23EF1135A2F7D8F71F7A32CE6B2F1A2
+
 tx of the following amounts:69, 1232, 7568, 120, 67900
+
 mean txps (minute or hour): 3.14
 
 
 based on jtv hash: b8 = Key of G# Major (Locked to notes: g# a# c c# d# f g 
+
 bass will play (snapped to key based on closest Hz^): ~~E1~~ -> (d#2 or f1), G1, D#2, ~~F#1~~ -> (F1 or G1), G1
+
 Tempo: 120 BPM (based on averages from past week)
