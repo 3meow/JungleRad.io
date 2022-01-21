@@ -17,8 +17,11 @@ Detect Banano tx of >69, play a note with the following settings:
 Saw wave, pitch = 42.0 Hz @ 69 ban to 77.8 Hz @ 6900 ban, length fixed to 1/4 note
 
 Bass Snapped to notes:
-Freq (Hz)	  41.2	43.7	  46.3	  49.0  	51.9	  55	  58.3	  61.7	  65.4	  69.3	  73.4	  77.8
-Note        E1	  F1	    F#1 	  G1	    G#1 	  A1	  A#1   	B1	    C2	    C#2 	  D2	    D#2
+
+**Freq (Hz)**	  41.2	43.7	  46.3	  49.0  	51.9	  55	  58.3	  61.7	  65.4	  69.3	  73.4	  77.8
+
+**Note**        E1	  F1	    F#1 	  G1	    G#1 	  A1	  A#1   	B1	    C2	    C#2 	  D2	    D#2
+
 
 Example 2:
 Tempo
