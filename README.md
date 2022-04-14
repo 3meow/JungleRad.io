@@ -1,4 +1,4 @@
-# Ban_Band
+# Jungle Radio (JungleRad.io)
 Procedurally generated "music" or visuals which are created from various data pulled from the Banano ecosystem, such as; Banano Transactions, JungleTV, CoinEx Trading, Discord/Reddit Tipbots. 
 
 Planned data sources:
